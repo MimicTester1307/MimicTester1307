@@ -7,7 +7,7 @@
 -->
 
 
-- 🌱 I’m currently learning distributed systems, but my interests span operating systems, computer security, human computer interaction, etc.
+- 🌱 I’m currently learning distributed systems, but my interests span multiple areas such as human computer interaction and IoT.
 - 🔭 I’m currently contributing to a couple of open source projects.
 - Languages & Technologies I am learning/are proficient in:
 
