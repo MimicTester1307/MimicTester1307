@@ -17,9 +17,9 @@
 
 # 📜 My blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An introduction to the UNIX tr utility](https://excel-chukwu.netlify.app/2022/09/21/An-introduction-to-the-UNIX-tr-utility/)
 - [Learning Journey](https://excel-chukwu.netlify.app/2022/08/19/Coming-Soon/)
 - [Personal Lessons from Growing as a Software Engineer](https://excel-chukwu.netlify.app/2022/08/11/Personal-Lessons-from-Growing-as-a-Software-Engineer/)
 - [Awesome Engineering Blogs](https://excel-chukwu.netlify.app/2022/08/06/Awesome-Engineering-Blogs/)
 - [A &lpar;Simple or Not-so-simple&rpar; Introduction to the Internet of Things](https://excel-chukwu.netlify.app/2022/08/05/A-Simple-or-Not-so-simple-Introduction-to-the-Internet-of-Things/)
-- [Lessons from Contributing to Open Source](https://excel-chukwu.netlify.app/2022/08/03/Lessons-from-Contributing-to-Open-Source/)
 <!-- BLOG-POST-LIST:END -->
