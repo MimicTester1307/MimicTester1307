@@ -17,9 +17,9 @@
 
 # 📜 My blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deeper Dive Series](https://excel-chukwu.netlify.app/2022/11/19/Deeper-Dive-Series/)
 - [Building a Ghana Digital Address Route Finder](https://excel-chukwu.netlify.app/2022/11/06/Building-a-Ghana-Digital-Address-Route-Finder/)
 - [Personal Lessons from Growing as a Software Engineer - Part 2](https://excel-chukwu.netlify.app/2022/10/18/Personal-Lessons-from-Growing-as-a-Software-Engineer-2/)
 - [An introduction to the UNIX tr utility](https://excel-chukwu.netlify.app/2022/09/21/An-introduction-to-the-UNIX-tr-utility/)
 - [Learning Journey](https://excel-chukwu.netlify.app/2022/08/19/Coming-Soon/)
-- [Personal Lessons from Growing as a Software Engineer](https://excel-chukwu.netlify.app/2022/08/11/Personal-Lessons-from-Growing-as-a-Software-Engineer/)
 <!-- BLOG-POST-LIST:END -->
