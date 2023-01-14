@@ -1,12 +1,5 @@
 # Hi there, I'm Excel 👋
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=mimictester1307&show_icons=true&theme=moltack&count_private=true" />
-
-<!--
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimictester1307&layout=compact" />
--->
-
-
 - 🌱 My current interests revolve around data and distributed systems, and cloud native computing.
 - 🔭 I’m currently contributing to a couple of open source projects.
 - Languages & Technologies I am learning/are proficient in:
