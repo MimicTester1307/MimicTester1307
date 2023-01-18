@@ -1,12 +1,12 @@
 # Hi there, I'm Excel 👋
 
-- 🌱 My current interests revolve around data and distributed systems, and cloud native computing.
+- 🌱 My current major interests revolve around data and distributed systems.
 - 🔭 I’m currently contributing to a couple of open source projects.
 - Languages & Technologies I am learning/are proficient in:
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-
-  *I am always willing to learn languages as required for a solution though.*
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  
+  *I am always willing to learn any technology required for a solution though.*
 
 # 📜 My blog posts
 <!-- BLOG-POST-LIST:START -->
